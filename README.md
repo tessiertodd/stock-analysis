@@ -11,6 +11,7 @@ Steve needs some help sorting through all the data on stocks he has to help iden
 ## Results: ##
 
 ### Stock Performance between 2017 and 2018 ###
+https://github.com/tessiertodd/stock-analysis/blob/main/2017%20and%202018%20Returns.png
 The stock performance overall in 2017 was much more positive than in 2018.  In 2017 only one stock TERP had negative returns (-7.2%) while all other stocks had returns between +8.9% and +199.4%.  In 2018 there were 2 stocks with positive returns (ENPH and RUN), however their returns in 2018 were lower than in 2017.
 
 Daily volumes in 2018 versus 2017 were up overall +4.4%, however that differed between stocks with 7 of 12 stocks daily volume up while 5 were down.  ENPH and RUN both had a large increase in daily traded volumes in 2018, only one stock DQ had daily volume increase more, but return was negative -62.6% for DQ in 2018.
