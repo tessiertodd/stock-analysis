@@ -31,4 +31,24 @@ The refactored VBA Challenge code runs much faster than the original Green Stock
 
 ### Summary ###
 
-#### Advantages of Refactoring Code ####
+#### Advantages and Disadvantages of Refactoring Code ####
+
+ADVANTAGES
+•	Able to take some good code and make it better and/or more efficient - more efficient (processing time) is important when looking to process large datasets.
+•	Opportunity to reduce the complexity of the code - making it more readable for others or yourself at a later date.
+
+DISADVANTAGES
+•	Time consuming process - you may not know how long it will take to complete.
+•	Could introduce errors or bugs that were not in the original code.
+
+
+#### Advantages and Disadvantages of Original and Refactored VBA Script ####
+
+ADVANTAGES
+•	Refactored VBA runs quicker than original (however both run in under a second so not much of an advantage with the limited data we had).
+•	Original code was a little less complex given ticker was only array being used.
+
+DISADVANTAGES
+•	Original takes more time to run than refactored VBA.
+•	Original code had to be run in two-steps - formatting setup as a seperate sub.
+•	Refactored code had some additional complexities - like multiple arrays for the various variables.
